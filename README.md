@@ -49,7 +49,7 @@ The simple banking system using C++ that can support the basic facilities provid
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/creater-shikha/BAnk_management.git
 ```
 
 ## Acknowledgements
