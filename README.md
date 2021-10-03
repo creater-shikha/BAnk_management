@@ -34,15 +34,15 @@ The simple banking system using C++ that can support the basic facilities provid
 - Destructor
 
 ## OUTPUT
-![Output Screen](C:\Users\shiso\Videos\Captures\enter)
+![Output Screen](https://github.com/creater-shikha/BAnk_management/blob/main/images/enter.png)
 
-![Open Account](C:\Users\shiso\Videos\Captures\open)
+![Open Account](https://github.com/creater-shikha/BAnk_management/blob/main/images/open.png)
 
- ![Balance Enquiry](C:\Users\shiso\Videos\Captures\Balance)
+ ![Balance Enquiry](https://github.com/creater-shikha/BAnk_management/blob/main/images/Balance.png)
  
- ![Close Account](C:\Users\shiso\Videos\Captures\open)
+ ![Close Account](https://github.com/creater-shikha/BAnk_management/blob/main/images/close.png)
  
- ![Show all Account](C:\Users\shiso\Videos\Captures\open)
+ ![Show all Account](https://github.com/creater-shikha/BAnk_management/blob/main/images/show%20all.png)
  
  ## Run Locally
 
